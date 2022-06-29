@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/000.jpg</file>
+        <file>resources/4.jpg</file>
+        <file>resources/cmd.png</file>
+        <file>resources/file.png</file>
+        <file>resources/keyboard.png</file>
+        <file>resources/remote.png</file>
+        <file>resources/screen.png</file>
+    </qresource>
+</RCC>
